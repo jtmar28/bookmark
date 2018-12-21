@@ -1,0 +1,14 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+}
+.jumbotron{
+  margin: 0 auto;
+  width: 500px;
+}
+.text-muted{
+  text-align: center;
+}
+.footer p{
+  text-align: center;
+}
